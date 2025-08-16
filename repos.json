@@ -1,6 +1,6 @@
 {
   "frontend": {
-    "Next.js App Router": "https://github.com/your-username/nextjs-app-router-template.git",
+    "Next.js App Router": "https://github.com/aannaassalam/nextjs-tailwindcss-template",
     "Next.js Pages Router": "https://github.com/your-username/nextjs-pages-router-template.git",
     "React + Vite": "https://github.com/your-username/react-vite-template.git"
   },
