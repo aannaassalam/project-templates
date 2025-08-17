@@ -1,8 +1,14 @@
 {
   "frontend": {
-    "Next.js App Router": "https://github.com/aannaassalam/nextjs-tailwindcss-template",
-    "Next.js Pages Router": "https://github.com/your-username/nextjs-pages-router-template.git",
-    "React + Vite": "https://github.com/your-username/react-vite-template.git"
+    "Next.js":{
+      "App Router": {},
+      "Pages Router":{
+        "TailwindCSS": "https://github.com/aannaassalam/nextjs-tailwindcss-template",
+      },
+    },
+    "React": {
+      "Vite + TailwindCSS":"https://github.com/your-username/react-vite-template.git"
+    },
   },
   "backend": {
     "Express API": "https://github.com/your-username/express-api-template.git",
