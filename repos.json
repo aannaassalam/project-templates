@@ -6,7 +6,8 @@
                 "TailwindCSS + ShadCN": "https://github.com/aannaassalam/nextjs-app-shadcn-template.git"
             },
             "Pages Router": {
-                "TailwindCSS": "https://github.com/aannaassalam/nextjs-tailwindcss-template.git"
+                "TailwindCSS": "https://github.com/aannaassalam/nextjs-tailwindcss-template.git",
+                "TailwindCSS + ShadCN": "https://github.com/aannaassalam/nextjs-pages-shadcn-template.git"
             }
         },
         "React": {
