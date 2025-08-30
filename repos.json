@@ -2,6 +2,7 @@
     "frontend": {
         "Next.js": {
             "App Router": {
+                "TailwindCSS": "https://github.com/aannaassalam/nextjs-app-tailwindcss-template.git",
                 "TailwindCSS + ShadCN": "https://github.com/aannaassalam/nextjs-app-shadcn-template.git"
             },
             "Pages Router": {
