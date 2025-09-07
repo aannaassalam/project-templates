@@ -11,7 +11,7 @@
             }
         },
         "React": {
-            "Vite + TailwindCSS": "https://github.com/your-username/react-vite-template.git"
+            "Vite + TailwindCSS": "https://github.com/aannaassalam/reactjs-tailwindcss-template.git"
         }
     },
     "backend": {
